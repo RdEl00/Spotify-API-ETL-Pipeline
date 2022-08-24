@@ -16,6 +16,15 @@ I wanted to create a simple ETL which would help develop my Data engineering ski
 -  Extract data using [Spotify API](https://developer.spotify.com/documentation/)
 -  Load data into [Sqlite](https://www.sqlite.org/index.html)
 
+## Dashboard
+
+<img src="images/Dashboard.png">
+
+> Final output from Google Data Studio. Link [here](https://datastudio.google.com/reporting/c131e64e-8319-4c5a-927f-f7ca6d641871).
+<br>
+> 2 days listening history from `records.sqlite`
+
+
 ## Setting up the Project
 
 - Clone the repository using
