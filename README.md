@@ -1,6 +1,6 @@
 # Spotify ETL Project
 
-This is a simple data pipeline to extract **my tracks record** using the **spotify api** and save the songs listened to everyday into a local **sqlite db**.
+In this project, I built a simple data pipeline to extract **my tracks record** using the **spotify api** and save everyday listened songs into a local **sqlite db**.
 
 I achieved this project by following Karolina's [data engineering for beginners' course.](https://github.com/karolina-sowinska/free-data-engineering-course-for-beginners) I highly recommend checking her [Youtube channel.](https://www.youtube.com/channel/UCAxnMry1lETl47xQWABvH7g)
 
