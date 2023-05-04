@@ -21,6 +21,8 @@ I wanted to create a simple ETL which would help develop my Data engineering ski
 <img src="images/Dashboard.png">
 
 > Final output from Google Data Studio. Link [here](https://datastudio.google.com/reporting/c131e64e-8319-4c5a-927f-f7ca6d641871).
+
+*Google officially rebranded its Data Studio product to be named Looker Studio in **October 2022***
 <br>
 
 > 2 days listening history from `records.sqlite`
